@@ -133,3 +133,4 @@ ShareView可以在任何界面中使用。
             super.onActivityResult(requestCode, resultCode, data);
             mShareView.setOnActivityResult(requestCode, resultCode, data);
         }
+
