@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 include ':app', ':share', ':share'
+=======
+include ':app'
+
+>>>>>>> 7019b80753857dde1c4efad76356609668f74779
